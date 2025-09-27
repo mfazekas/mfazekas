@@ -7,10 +7,11 @@ Senior Software Engineer with 20+ years of experience in mobile, web, and system
 ## 💼 Current Work
 
 **Mobile Developer** *(Aug 2024 - Aug 2025)*  
-Working on **Zabit mobile app** - A cutting-edge mobile application built with Expo and React Native, focusing on delivering exceptional user experiences and robust functionality.
+Working on **Zabit mobile app** - A cutting-edge mobile application built with Expo and React Native, featuring a Supabase backend for robust data management and scalable infrastructure.
 
 ## 💼 Professional Experience
 
+- **Vice President** at [Morgan Stanley](http://www.morganstanley.com) - C++ developer working on proprietary middleware server for distributing market data (low latency/high throughput publish-subscribe system)
 - **Senior Software Engineer** at various technology companies
 - **iOS Development** experience with Objective-C/Cocoa/CocoaTouch
 - **Backend & Systems** development with C++, Ruby/Rails, Python
@@ -22,12 +23,15 @@ Working on **Zabit mobile app** - A cutting-edge mobile application built with E
 - **Expert**: C++, Framework Design, Large Projects, Legacy Code
 - **Advanced**: Ruby/Rails, Python, TCP/IP Programming, React Native
 - **Intermediate**: Objective-C/iOS, Java, JavaScript/HTML/CSS, Expo
-- **Specialized**: Mapping & Geospatial (Mapbox, GIS), Multi-platform Development
+- **Specialized**: Mapping & Geospatial (Mapbox, GIS), Multi-platform Development, Supabase
 - **Infrastructure**: CI/CD, Build Systems, Unit Testing, Git
 
 ## 🗺️ Open Source Contributions
 
 - **[@rnmapbox/maps](https://github.com/rnmapbox/maps) Maintainer**: Leading React Native mapping solutions
+- **[React Native Core](https://github.com/facebook/react-native)**: Multiple merged PRs including Swift Package Manager support, Android autolinking fixes, and codegen improvements
+- **React Native Ecosystem**: Bug reproductions, feature implementations, and community contributions ([bug reports & PRs](https://github.com/search?q=author%3Amfazekas+react-native))
+- **[Expo Contributions](https://github.com/search?q=author%3Amfazekas+expo)**: Bug reproductions and improvements for Expo ecosystem
 - **[Net-ssh](https://github.com/net-ssh/net-ssh) Maintainer**: Ruby SSH library with multiple contributions
 - **[Rails](https://github.com/rails/rails)**: Core contributor with bugfixes and pull requests
 - **Other contributions**: Google C++ Testing Framework, Selenium/WebDriver, Apple's GDB, Mesa3D
