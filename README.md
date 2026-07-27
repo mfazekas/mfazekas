@@ -6,12 +6,12 @@ Senior Software Engineer with 20+ years of experience in mobile, web, and system
 
 ## Current Work
 
-**Senior React Native Engineer** at [Margelo](https://margelo.com) *(Oct 2025 - present)*  
+**Freelance React Native Engineer** at [Margelo](https://margelo.com) *(Oct 2025 - present)*  
 Working on [Rive React Native v2](https://github.com/rive-app/rive-nitro-react-native) - a rewrite of [the original runtime](https://github.com/rive-app/rive-react-native) on top of [Nitro Modules](https://github.com/mrousavy/nitro) - and contributing to Nitro itself.
 
 ## Professional Experience
 
-- **Senior React Native Engineer** at [Margelo](https://margelo.com) - Rive React Native and Nitro Modules
+- **Freelance React Native Engineer** at [Margelo](https://margelo.com) - Rive React Native and Nitro Modules
 - **Mobile Developer** *(Aug 2024 - Aug 2025)* - **Zabit mobile app**, built with Expo and React Native on a Supabase backend
 - **Vice President** at [Morgan Stanley](http://www.morganstanley.com) - C++ developer working on proprietary middleware server for distributing market data (low latency/high throughput publish-subscribe system)
 - **Senior Software Engineer** at various technology companies
