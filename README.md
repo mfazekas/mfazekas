@@ -6,11 +6,13 @@ Senior Software Engineer with 20+ years of experience in mobile, web, and system
 
 ## Current Work
 
-**Mobile Developer** *(Aug 2024 - Aug 2025)*  
-Working on **Zabit mobile app** - A cutting-edge mobile application built with Expo and React Native, featuring a Supabase backend for robust data management and scalable infrastructure.
+**Senior React Native Engineer** at [Margelo](https://margelo.com) *(Oct 2025 - present)*  
+Working on [Rive React Native v2](https://github.com/rive-app/rive-nitro-react-native) - a rewrite of [the original runtime](https://github.com/rive-app/rive-react-native) on top of [Nitro Modules](https://github.com/mrousavy/nitro) - and contributing to Nitro itself.
 
 ## Professional Experience
 
+- **Senior React Native Engineer** at [Margelo](https://margelo.com) - Rive React Native and Nitro Modules
+- **Mobile Developer** *(Aug 2024 - Aug 2025)* - **Zabit mobile app**, built with Expo and React Native on a Supabase backend
 - **Vice President** at [Morgan Stanley](http://www.morganstanley.com) - C++ developer working on proprietary middleware server for distributing market data (low latency/high throughput publish-subscribe system)
 - **Senior Software Engineer** at various technology companies
 - **iOS Development** experience with Objective-C/Swift
@@ -32,6 +34,8 @@ Working on **Zabit mobile app** - A cutting-edge mobile application built with E
 - **[React Native Core](https://github.com/facebook/react-native)**: Multiple merged PRs including [Swift Package Manager support](https://github.com/facebook/react-native/pull/44627), [Android autolinking fixes](https://github.com/facebook/react-native/pull/45333), [codegen improvements](https://github.com/facebook/react-native/pull/53852), and [double-checked locking issue reproduction](https://github.com/mfazekas/codegen-variable-naming-bug)
 - **React Native Ecosystem**: Bug reproductions, feature implementations, and community contributions ([bug reports & PRs](https://github.com/search?q=author%3Amfazekas+react-native))
 - **[Expo Contributions](https://github.com/search?q=author%3Amfazekas+expo)**: Bug reproductions and improvements including [race condition fix in expo updates](https://github.com/expo/expo/issues/32073) and [permission request dialog crash fix](https://github.com/expo/expo/pull/32096)
+- **[Rive React Native](https://github.com/rive-app/rive-nitro-react-native)**: Core contributor to the v2 runtime built on Nitro Modules, shipping as `@rive-app/react-native`
+- **[Nitro Modules](https://github.com/mrousavy/nitro)**: Contributions to the native module framework
 - **[Net-ssh](https://github.com/net-ssh/net-ssh) Maintainer**: Ruby SSH library with multiple contributions
 - **[Rails](https://github.com/rails/rails)**: Core contributor with bugfixes and pull requests
 - **Other contributions**: Google C++ Testing Framework, Selenium/WebDriver, Apple's GDB, Mesa3D
